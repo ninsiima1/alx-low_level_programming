@@ -1,13 +1,9 @@
-#!/bin/bash
 #include <stdio.h>
-/** 
- * main - main function is here
- *
- * Return: always 0
+/**
+ * main -Entry point
+ * Return: Always 0 (success)
  */
-
 int main(void)
-{
-  puts("\"Programming is like building a multilingual puzzle);
-  return (0); 
+{	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
